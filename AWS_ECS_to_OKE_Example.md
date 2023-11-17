@@ -10,7 +10,7 @@ Here are more detailed steps with examples and reference links for migrating a w
        ```
 
    - **Oracle Cloud Environment Setup:**
-     - Follow Oracle Cloud documentation to create a tenancy and set up Oracle Kubernetes Engine: [Getting Started with Oracle Cloud](https://docs.oracle.com/en/cloud/get-started/index.html)
+     - Follow Oracle Cloud documentation to create a tenancy and set up Oracle Kubernetes Engine: [Oracle Cloud OKE Overview](https://docs.oracle.com/en-us/iaas/Content/ContEng/Concepts/contengoverview.htm)
 
 ### 2. **Containerization:**
 
