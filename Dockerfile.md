@@ -27,10 +27,10 @@ CMD ["nginx", "-g", "daemon off;"]
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Custom Static Web Page</title>
+    <title>ECS to OKE Migration</title>
 </head>
 <body>
-    <h1>Hello, this is a custom static web page!</h1>
+    <h1>Hello, we are doing ECS to OKE Migration!</h1>
 </body>
 </html>
 ```
