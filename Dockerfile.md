@@ -1,4 +1,4 @@
-Certainly! Below is the same information formatted in Markdown for use in a GitHub README or any Markdown file:
+
 
 ```markdown
 # Custom Nginx Docker Image
