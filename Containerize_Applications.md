@@ -1,5 +1,9 @@
 Converting an ECS Task JSON file to a Kubernetes Deployment YAML involves translating ECS-specific configurations to Kubernetes-compatible syntax. Below is a step-by-step process with an example using the Docker image `discoverdevops/mywebapp:app-01`.
 
+
+![image](https://github.com/chrahul/AWS_ECS_to_Oracle_OKE/assets/14847377/40b33d39-e0fa-4723-8971-2d89b626a6dc)
+
+
 ### Step 1: Examine the ECS Task Definition JSON
 
 Review the ECS Task Definition JSON file to understand the container configurations, resource allocations, and other settings. Extract information such as container name, image, ports, environment variables, and volumes.
