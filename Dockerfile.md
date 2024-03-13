@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Custom Nginx Docker Image
 
 This Dockerfile example uses the official Nginx image to create a container serving a custom static web page.
@@ -52,8 +52,3 @@ After building the image, you can run a container using the following command:
 ```bash
 docker run -p 8080:80 custom-nginx
 ```
-
-Now, you should be able to access your custom static web page by navigating to `http://localhost:8080` in your web browser.
-```
-
-Copy and paste this Markdown content into your README.md or any other Markdown file in your GitHub repository.
